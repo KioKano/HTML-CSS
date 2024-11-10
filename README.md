@@ -4,12 +4,12 @@ Submitted by: **Kionna Kanoyton**
 
 Files and exercises from *New Perspectives on HTML 5 and CSS: 7th Edition, Comprehensive* by Patrick Carey.
 
-## Required Features
+## Book Chapters
 
 The following tutorials are completed:
 
 * [ ] Tutorial 1: Getting Started with HTML5
-    * [ ] Creating a Website for a Food Vendor
+    * [X] Creating a Website for a Food Vendor
 * [ ] Tutorial 2: Getting Started with CSS
     * [ ] Creating a Website for a Fitness Club
 * [ ] Tutorial 3: Designing a Page Layout
